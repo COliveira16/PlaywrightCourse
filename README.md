@@ -10,5 +10,10 @@ Ensure you have Node.js installed on your machine.
 
 To set up the project, follow these steps:
 
-1. npm i
-2. npm install @faker-js/faker
+- npm i
+- npm install @faker-js/faker
+
+## Run Tests
+Go to folder tests and run the command
+
+- npx playwright test
